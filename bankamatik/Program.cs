@@ -42,7 +42,7 @@ namespace bankamatik
                     }
 
 
-                    while (true)
+                    while (secim!=4)
                     {
 
                         Console.WriteLine("Lütfen Yapmak istediğiniz işlemin numarasını tıklayınız..");
